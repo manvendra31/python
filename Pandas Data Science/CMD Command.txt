@@ -1,0 +1,10 @@
+# command to the open of the juypter notebook
+
+
+~For the default location
+jupyter-notebook
+
+~ for any other location like we give the example
+
+cd "D:\python\Pandas Data Science"
+jupyter-notebook
