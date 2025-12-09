@@ -5,3 +5,5 @@
 def file():
     ram = open(r"D:\python\Coursera\Module 2 Data Structure\File\mbox-short.txt", "r")
     return ram
+
+

@@ -15,3 +15,8 @@ a.seek(0)
 count =c.count('PYTHON')
 
 print(count)
+
+
+text = "Python is a powerful language"
+words = text.split()
+print(words)
