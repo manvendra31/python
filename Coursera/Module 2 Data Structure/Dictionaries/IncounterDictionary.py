@@ -1,0 +1,13 @@
+# How we can handel the previous error
+
+count = dict()
+
+names = ["csev","cwen","csev","zqian","cwen"]
+
+for name in names:
+    if name not in count:
+        count[name]=1
+    else:
+        count[name]=count[name]+1
+
+print(count)            
