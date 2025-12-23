@@ -22,3 +22,14 @@ print(b)
 b["x"]="Shubham"
 
 print(b)
+
+
+#Removing the dictoniry
+
+del b["Age"]
+
+print(b)
+
+b.clear()
+
+print(b)
